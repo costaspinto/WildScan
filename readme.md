@@ -7,6 +7,10 @@ https://github.com/user-attachments/assets/9bf85ab4-ba83-4070-974d-aa350babcbce
 
 
 ---
+<img width="1920" height="870" alt="capture_1757351451047" src="https://github.com/user-attachments/assets/349e1174-7f91-4d2e-a651-12dd9a50d7fe" />
+<img width="1920" height="870" alt="capture_1757351446942" src="https://github.com/user-attachments/assets/fde1c06b-1166-4323-a9f8-d47fb1edbbfa" />
+<img width="1920" height="870" alt="capture_1757351480505" src="https://github.com/user-attachments/assets/83bce405-591b-46f5-9ae2-2d346baf6511" />
+
 
 ## Features
 
