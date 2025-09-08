@@ -2,6 +2,10 @@
 
 WildScan is an **end-to-end deep learning application** for detecting and classifying wildlife species from images. It integrates a **PyTorch-powered backend** for inference with a **modern React + TypeScript frontend**, providing an intuitive user interface for image uploads, classification, and result visualization. The project is designed for **real-world deployment**, making it scalable, maintainable, and production-ready.
 
+
+https://github.com/user-attachments/assets/9bf85ab4-ba83-4070-974d-aa350babcbce
+
+
 ---
 
 ## Features
